@@ -9,7 +9,17 @@
 article:first-child {
     font-style: italic;
     background-color: burlywood;
+    width: 60%;
+    border-color: black;
+    border-style: solid;
+    padding: 10px 40px;
+    margin: 0 auto 0 auto; 
 }
+
+.container {
+    text-align: center;
+}
+
 
 
 
