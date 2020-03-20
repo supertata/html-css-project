@@ -4,7 +4,9 @@
 */
 
 
-
+ul {
+    list-style-type: none;
+}
 
 article:first-child {
     font-style: italic;
@@ -18,12 +20,26 @@ article:first-child {
 
 .container {
     text-align: center;
+    margin: 3% 0;
 }
 
 h1 {
     font-family: 'Playfair Display', serif;
+    padding-top: 30px;
 }
 
+li {
+    display: inline;
+    margin: 10px;
+}
+
+footer {
+    margin: 6% 0 2% 0;
+}
+
+article {
+    margin: 5%;
+}
 
 
 
