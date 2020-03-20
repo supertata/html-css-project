@@ -2,3 +2,15 @@
     background-color: blueviolet;
 } 
 */
+
+
+
+
+article:first-child {
+    font-style: italic;
+    background-color: burlywood;
+}
+
+
+
+
