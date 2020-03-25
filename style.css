@@ -57,17 +57,26 @@ body {
 
 .sidebar {
     display: flex;
-    width: 30%;
+    width: 20%;
     background-color: burlywood;
 }
 
 .main-content {
     display: flex;
-    width: 70%;
-    flex-direction: column;
+    width: 80%;
+    flex-direction: row;
     background-color:orange;
     text-align: center;
+    flex-wrap: wrap;
+}
+
+.articles {
+    width: 20%;
     
+}
+
+img {
+    width: 100%;
 }
 
 /* Media queries*/
