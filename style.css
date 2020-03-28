@@ -46,7 +46,8 @@ h1 {
 .articles {
     width: 25%;
     background: pink;
-    padding: 2%;  
+    padding: 2%; 
+    margin: 1rem; 
 }
 
 img {
